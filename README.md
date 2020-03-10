@@ -1,0 +1,2 @@
+# RandomForest_AdaBoost
+In the pronblem given the task is to predict the volume of passengers in trains.  This problem is based on MultiClass Classification Problem as the target column has 3 classes :  low, medium and high.  This Classification problem is best solved using Random Forest Classifier with Boosting Algorithm  in order to have better accuracy as well as precision and recall and thus higher f1 score.
